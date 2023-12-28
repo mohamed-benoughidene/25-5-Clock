@@ -11,3 +11,5 @@ This project is a web-based application that fulfills the FreeCodeCamp Test for 
 - **Countdown Timer:** The application displays a countdown timer that alternates between the work session and break time.
 
 - **Pause and Reset Functionality:** Users can pause the timer and reset it to the original session and break lengths.
+## Live demo
+Click [here](https://coruscating-tiramisu-7a1bb2.netlify.app/)
