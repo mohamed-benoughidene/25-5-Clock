@@ -107,9 +107,10 @@ const App = () => {
           <button id="start_stop" onClick={handleStartStop}>{timerRunning ? 'Pause' : 'Start'}</button>
           <button id="reset" onClick={handleReset}>Reset</button>
         </div>
+        <a href="https://github.com/mohamed-benoughidene/25-5-Clock" style={{color: "#f8f8f8"}}>source code</a>
       </div>
       <audio id="beep" ref={audioRef} src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/audio/BeepSound.wav" />
-      <a href="https://github.com/mohamed-benoughidene/25-5-Clock">source code</a>
+      
     </div>
   );
 };
